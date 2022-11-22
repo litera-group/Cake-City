@@ -1,0 +1,91 @@
+body{
+  font-family: 'Delius Swash Caps', cursive;
+}
+table{
+  width: 1440px;
+  height: 1080px;
+  margin: 0 auto;
+ border: none;
+}
+thead .header_1 tr td{
+  height: 40px;
+  vertical-align: middle;
+}
+thead .header_1 p{
+  color:#EB305D;
+}
+thead .header_2 {
+ height: 88px;
+ background-color: #4A2400;
+ color:white; 
+
+}
+thead .header_2 img{
+  height: 44px;
+  width: 44px;
+}
+thead .header_2 td{
+ text-align: left;
+ }
+thead .header_2 p {
+  font-weight:400;
+font-size: 16px;
+}
+thead .header_2 a {
+  font-weight:400;
+font-size: 16px;
+text-decoration: none;
+color: white;
+}
+thead .header_2 p em{
+  font-weight:400;
+font-size: 32px;
+}
+tbody .picture_top {
+  height: 300px;
+}
+tbody .picture_top .text_in_the_center{
+ height:  100px;
+ width: 485px;
+  font-weight: 400;
+  font-size : 40px;
+  color: white;
+position: absolute;
+top:211px;
+left:623px;
+overflow: hidden;
+}
+tbody .text_middle h3{
+  margin-top: 70px;
+  font-weight: 400;
+  font-size: 24px;
+  text-align: center;
+  color: #D63054;
+}
+
+tfoot #footer{
+  height: 31px;
+  text-align: center;
+background-color: #4A2400;
+color: white;
+}
+tbody .text_middle li img{
+  height: 190px;
+  width: 190px;
+}
+
+tbody .text_middle .list_of_cakes{
+width: 986px;
+margin: 70px auto;
+}
+tbody .text_middle .list_of_cakes ul{
+  display: flex;
+  justify-content: space-around;
+}
+tbody .text_middle .list_of_cakes ul li{
+  width: 224px;
+height: 190px;
+text-align: center;
+font-weight: 400;
+font-size: 18px;
+} 
