@@ -1,3 +1,143 @@
 body{
     font-family: 'Delius Swash Caps', cursive;
 }
+/*thead-1*/
+table{
+    width: 1440px;
+}
+td{
+    vertical-align: middle;
+}
+.phone{
+    text-align: end;
+    color: #EB305D;
+    padding-left: 450px;
+}
+.logo{
+    padding: 7px 0px 7px 86px;
+}
+.logo a{
+    margin-right: 15px;
+}
+/*thead-2*/
+.brain{
+    background-color: #4A2400;
+}
+.brain a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.title img{
+    position: relative;
+    left: 307px;
+    top: 12px;
+}
+.title h1{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    color: #FFFFFF;
+    position: absolute;
+    left: 364px;
+    top: 65px;
+}
+.links{
+    padding: 8px;
+    position: relative;
+    top: -23px;
+    left: 745px;
+}
+.links a{
+   margin-right: 20px;
+}
+
+/*tbody*/
+.discription{
+    width: 567px;
+    position: absolute;
+    left: 623px;
+    top: 211px;
+}
+.discription h2{
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    color: #FFFFFF;
+}
+
+/*tbody-2*/
+
+.title-2{
+    padding: 70px 648px 34px;
+}
+.title-2 h2{
+    font-weight: 400;
+    font-size: 24px;
+    text-decoration-line: underline;
+    color: #D63054;
+}
+.cards{
+    position: absolute;
+    width: 850px;
+    height: 244px;
+    left: 440px;
+    top: 553px;
+    display: flex;
+}
+.right{
+    position: absolute;
+    left: -180px;
+    top: -3px;
+}
+.left{
+    position: relative;
+    top: 0px;
+    left: -45px;
+}
+.picture-1 a{ 
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000; 
+    position: relative;
+    left: -115px;
+    top: 221px;
+}
+.picture-2 a{ 
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000; 
+    position: relative;
+    left: -125px;
+    top: 221px;
+}
+.picture-3 a{ 
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000; 
+    position: relative;
+    left: -140px;
+    top: 221px;
+}
+.picture-4 a{ 
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000; 
+    position: relative;
+    left: -175px;
+    top: 221px;
+}
+.foot{
+    width: 1440px;
+    height: 31px;
+    margin-top: 480px;
+    background-color: #4A2400;
+}
+.foot h2{
+    padding-top: 6px;
+    color: #FFFFFF;
+}
